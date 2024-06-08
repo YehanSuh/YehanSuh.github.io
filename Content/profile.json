@@ -28,16 +28,7 @@
 },
 "Project1": {
     "Title": "Suh Yehan - System Proposal - CLace",
-    "Desc": "This is a description System Proposal - CLace.<br><br> CLace is a time-keeping app based on geography that offers the best help to SPU students who are usually late for class time.<br> 
-    In the of documents, we will cover how CLace came up, how it can benefit our stakeholders, and how we will build CLace and achieve the goal most efficiently.<br> 
-    These documents will show you the system revolution and its plan, dipper investigation with much more details, functions, data, plans, and designs to announce CLace to our development team.<br><br> 
-    
-    System Proposal<br> 
-     CLace is an innovative application designed to help children avoid wasting time and develop productive habits.<br> 
-    This document outlines how CLace is engineered to combat time-wasting and instill efficient time-management skills in young users.<br> 
-    Discover how CLace transforms students' approach to time, encouraging them to use every moment wisely.<br> 
-    Please pay close attention to the features and benefits of CLace as it guides children toward valuing and making the most of their time.<br> 
-    It will also show you the outline of CLace.<br>",
+    "Desc": "This is a description System Proposal - CLace.<br><br>CLace is a time-keeping app based on geography that offers the best help to SPU students who are usually late for class time.<br>In the of documents, we will cover how CLace came up, how it can benefit our stakeholders, and how we will build CLace and achieve the goal most efficiently.<br> These documents will show you the system revolution and its plan, dipper investigation with much more details, functions, data, plans, and designs to announce CLace to our development team.<br><br> CLace is an innovative application designed to help children avoid wasting time and develop productive habits.<br> This document outlines how CLace is engineered to combat time-wasting and instill efficient time-management skills in young users.<br> Discover how CLace transforms students' approach to time, encouraging them to use every moment wisely.<br> Please pay close attention to the features and benefits of CLace as it guides children toward valuing and making the most of their time.<br> It will also show you the outline of CLace.<br>",
     "GitHubRepo": "https://github.com",
     "MainImage": "system proposal cover.png",
     "DetailImages": ["system proposal table of contents.png"]
