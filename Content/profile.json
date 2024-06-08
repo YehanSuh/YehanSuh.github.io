@@ -35,7 +35,7 @@
   },
   "Project2": {
     "Title": "Suh Yehan - System Specification - CLace",
-    "Desc": "This is a description of System Specification - CLace.<br><br>It also has a GitHub repo and more details shown in screenshots and ReadMe.",
+    "Desc": "This is a description of System Specification - CLace.<br><br>CLace is a time-keeping app based on geography that offers the best help to SPU students who are usually late for class time.<br>In the of documents, we will cover how CLace came up, how it can benefit our stakeholders, and how we will build CLace and achieve the goal most efficiently.<br> These documents will show you the system revolution and its plan, dipper investigation with much more details, functions, data, plans, and designs to announce CLace to our development team.<br><br> System Specification<br> This document serves as the system specification for the CLace development team.<br> CLace is a timekeeping application designed for Seattle Pacific University (SPU) students to help them improve their punctuality and time management skills.<br> The primary audience for this document includes developers, project managers, and stakeholders involved in the development and implementation of CLace.<br> The system will include the structural model, architecture model, security plan, and user interface.<br> ",
     "GitHubRepo": "https://github.com",
     "MainImage": "system specification cover.png",
     "DetailImages": ["system specification table of contents.png"]
