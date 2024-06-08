@@ -1,0 +1,7 @@
+CLace is a time-keeping app based on geography that offers the best help to SPU students who are usually late for class time. In the of documents, we will cover how CLace came up, how it can benefit our stakeholders, and how we will build CLace and achieve the goal most efficiently. These documents will show you the system revolution and its plan, dipper investigation with much more details, functions, data, plans, and designs to announce CLace to our development team.
+
+System Proposal
+CLace is an innovative application designed to help children avoid wasting time and develop productive habits. This document outlines how CLace is engineered to combat time-wasting and instill efficient time-management skills in young users. Discover how CLace transforms students' approach to time, encouraging them to use every moment wisely. Please pay close attention to the features and benefits of CLace as it guides children toward valuing and making the most of their time. It will also shows you the outline of CLace.
+
+System Specification
+This document serves as the system specification for the CLace development team. CLace is a timekeeping application designed for Seattle Pacific University (SPU) students to help them improve their punctuality and time management skills. The primary audience for this document includes developers, project managers, and stakeholders involved in the development and implementation of CLace. The system will include the structural model, architecture model, security plan, and user interface. 
