@@ -32,6 +32,11 @@ function updateHTML(configData) {
   document.querySelector("#pfSkills").innerHTML = configData.Experience.Skills.toString();
   document.querySelector("#pfSkillsText").innerHTML = configData.Experience.SkillsText;
 
+  document.querySelector("#expCertifis>h2").innerHTML = "Certifications";
+  document.querySelector("#pfCertifis").innerHTML = configData.Experience.Certifis.map(cert => `<li>${cert}</li>`).join("");
+  document.querySelector("#pfCertifiText").innerHTML = configData.Experience.CertifiText;
+
+
   // document.querySelector("#pfResume").href = "./Content/".concat(configData.Experience.Resume);
   // document.querySelector("#pfResume").href = "./Content/resume.pdf";
   document.querySelector("#pfResume").onclick = () => {
