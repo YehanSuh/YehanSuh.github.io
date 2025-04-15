@@ -141,6 +141,9 @@ document.querySelector("#openProject3").onclick = () => {
   showImages(slideIdx);
 }
 
+document.querySelector("#pfProject3Img").src = "./Images/beat-up-cancer-demo.png";
+
+
 document.querySelector("#XOut").onclick = () => {
   document.querySelector("#modalPage").style.display = "none";
 }
