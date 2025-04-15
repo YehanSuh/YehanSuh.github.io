@@ -23,6 +23,7 @@
   "EmploymentText": "Managed the school item stocks and ordered weekly supplies with the computer programs and documents",
   "Skills": ["C++", " JavaScript", "Rust", "SQL", " Node", " CSS"," HTML"],
   "SkillsText": "Studied various computer languages and skills that are required for multiple development works including application, computer program, website, and database",
+  "Certifis": "Certification" ,
   "CertifiText": "Unity Certified Associate: Game Developer" ,
   "Resume": "Yehan Suh Resume.pdf"  
 },
